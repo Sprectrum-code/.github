@@ -127,7 +127,7 @@ SampleLab is a real-time sampling studio based on the Nyquist theorem. It allows
 
 ## Live Demo/Examples
 
-- **BioSignalScope:** *Coming soon*
+- ![**BioSignalScope:** ](https://github.com/karreemm/BioSignalScope-Real-time-Biological-Signals-Viewer/blob/main/Assets/Default.gif?raw=true)
 - **Azzam:** *Coming soon*
 - ![**ToneEQ:**](https://github.com/AhmedXAlDeeb/ToneEQ-Audio-Equalizer-and-Acappella-Extractor/raw/main/assets/uniform_mode.gif)
 - ![**PhaseMediX:**](https://github.com/AhmedXAlDeeb/PhaseMediX-Image-Mixer-with-Fourier-Transform/raw/main/assets/roi.gif)
