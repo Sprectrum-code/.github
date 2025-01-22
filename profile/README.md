@@ -123,45 +123,12 @@ SampleLab is a real-time sampling studio based on the Nyquist theorem. It allows
 - **Beamforming Simulator:** Educational tool for learning beamforming techniques.
 - **SampleLab:** Interactive platform for understanding signal sampling and reconstruction.
 
-## Live Demo/Examples
-
-- ![**BioSignalScope:** ](https://github.com/karreemm/BioSignalScope-Real-time-Biological-Signals-Viewer/blob/main/Assets/Default.gif?raw=true)
-- **Azzam:** *Coming soon*
-- ![**ToneEQ:**](https://github.com/AhmedXAlDeeb/ToneEQ-Audio-Equalizer-and-Acappella-Extractor/raw/main/assets/uniform_mode.gif)
-- ![**PhaseMediX:**](https://github.com/AhmedXAlDeeb/PhaseMediX-Image-Mixer-with-Fourier-Transform/raw/main/assets/roi.gif)
-- ![**Beamforming Simulator:**](https://github.com/AhmedXAlDeeb/Beamforming-realtime-Simulator/raw/main/assets/curvilinear_mode.gif)
-- ![**SampleLab:**](https://github.com/AhmedXAlDeeb/SampleLab-Nyquist-Realtime-Sampling-Studio/raw/main/assets/sampling_mehods.gif)
-
-## Roadmap
-
-- **Version 2.0 Updates:**
-  - AI-enhanced features for signal processing.
-  - Improved user interfaces across all applications.
-  - Expanded documentation and tutorials.
-
-## Community and Support
-
-- Join our **[Discord](#)** or **[Slack](#)** community for real-time discussions.
-- Check out the **[issue tracker](#)** for open issues or to report bugs.
-
-## Acknowledgments
-
-Special thanks to Cairo University and all collaborators who have contributed to these projects. Your support and feedback are invaluable.
 
 ## Related Projects
 
 - [SciPy](https://scipy.org/): Open-source scientific computing library.
 - [MATLAB Toolboxes](https://www.mathworks.com/products.html): Tools for advanced signal processing.
 - [Audacity](https://www.audacityteam.org/): Open-source audio editing software.
-
-## License Information
-
-Each project is licensed under its respective license as specified in its repository. Please review the license information before using or contributing to a project.
-
-## Changelog
-
-- **Version 1.0:** Initial release.
-- **Version 1.1:** Added real-time sampling to SampleLab.
 
 
 ## Contributors <a name="Contributors"></a>
@@ -197,5 +164,7 @@ Each project is licensed under its respective license as specified in its reposi
       </a>
     </td>
   </tr>
-</table
+</table>
 
+## Acknowledgments
+These projects was supervised by Dr. Tamer Basha as part of the Digital Signal Processing course at Cairo University Faculty of Engineering.
