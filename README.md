@@ -1,6 +1,6 @@
  <h1 style= "font-size:20 em;" align= center> <b>SPECTRUM CODE</b> </h1>
  
-![test](https://img.freepik.com/free-vector/3d-audio-soundwave_1217-3196.jpg?t=st=1737521676~exp=1737525276~hmac=45d3ee121ea74ff36ca15005ac90edff3e37c6143a6134071a9e80f1857963ba&w=1380)
+
 Welcome to Spectrum Code! This organization consolidates a collection of innovative projects applying Digital Signal Proccessing Princibles, focusing on real-time signal processing, audio analysis, and image transformation. Below is an overview of each project within this organization:
 
 ## Mission Statement
@@ -126,30 +126,6 @@ SampleLab is a real-time sampling studio based on the Nyquist theorem. It allows
 - **Beamforming Simulator:** Educational tool for learning beamforming techniques.
 - **SampleLab:** Interactive platform for understanding signal sampling and reconstruction.
 
-## Live Demo/Examples
-
-- **BioSignalScope:** *Coming soon*
-- **Azzam:** *Coming soon*
-- ![**ToneEQ:**](https://github.com/AhmedXAlDeeb/ToneEQ-Audio-Equalizer-and-Acappella-Extractor/raw/main/assets/uniform_mode.gif)
-- ![**PhaseMediX:**](https://github.com/AhmedXAlDeeb/PhaseMediX-Image-Mixer-with-Fourier-Transform/raw/main/assets/roi.gif)
-- ![**Beamforming Simulator:**](https://github.com/AhmedXAlDeeb/Beamforming-realtime-Simulator/raw/main/assets/curvilinear_mode.gif)
-- ![**SampleLab:**](https://github.com/AhmedXAlDeeb/SampleLab-Nyquist-Realtime-Sampling-Studio/raw/main/assets/sampling_mehods.gif)
-
-## Roadmap
-
-- **Version 2.0 Updates:**
-  - AI-enhanced features for signal processing.
-  - Improved user interfaces across all applications.
-  - Expanded documentation and tutorials.
-
-## Community and Support
-
-- Join our **[Discord](#)** or **[Slack](#)** community for real-time discussions.
-- Check out the **[issue tracker](#)** for open issues or to report bugs.
-
-## Acknowledgments
-
-Special thanks to Cairo University and all collaborators who have contributed to these projects. Your support and feedback are invaluable.
 
 ## Related Projects
 
@@ -200,5 +176,8 @@ Each project is licensed under its respective license as specified in its reposi
       </a>
     </td>
   </tr>
-</table
+</table>
+
+## Acknowledgments
+These projects was supervised by Dr. Tamer Basha as part of the Digital Signal Processing course at Cairo University Faculty of Engineering.
 
