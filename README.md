@@ -1,9 +1,10 @@
-# Spectrum Code
-
+ <h1 style= "font-size:20 em;" align= center> <b>SPECTRUM CODE</b> </h1>
+ 
+![test](https://img.freepik.com/free-vector/3d-audio-soundwave_1217-3196.jpg?t=st=1737521676~exp=1737525276~hmac=45d3ee121ea74ff36ca15005ac90edff3e37c6143a6134071a9e80f1857963ba&w=1380)
 Welcome to Spectrum Code! This organization consolidates a collection of innovative projects applying Digital Signal Proccessing Princibles, focusing on real-time signal processing, audio analysis, and image transformation. Below is an overview of each project within this organization:
 
 ## Mission Statement
-Spectrum Code is dedicated to advancing open-source solutions in real-time signal and image processing, empowering developers and researchers with cutting-edge tools. We strive to foster innovation and collaboration to address real-world challenges in audio, visual, and biological signal analysis.
+Spectrum Code is dedicated to advancing open-source solutions across diverse projects that apply digital signal processing (DSP) principles. Our goal is to help learners and professionals gain practical insights through real-time audio, visual, and biological signal analysis tools. By fostering innovation and collaboration, we empower users to tackle real-world challenges and enhance their understanding of DSP concepts through hands-on experiences.
 
 ## Projects
 
