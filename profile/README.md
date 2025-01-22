@@ -17,9 +17,9 @@ BioSignalScope is a real-time viewer designed for biological signals. It enables
 - Support for multiple types of biological data inputs.
 - User-friendly interface for efficient data analysis.
 
-![BioSignalScope](https://github.com/AhmedXAlDeeb/BioSignalScope-Real-time-biological-signals-viewer/blob/main/Images/overview.png)
+![BioSignalScope](https://github.com/Mostafaali3/BioSignalScope-Real-time-biological-signals-viewer/blob/main/Images/overview.png)
 
-**Repository:** [BioSignalScope](https://github.com/AhmedXAlDeeb/BioSignalScope-Real-time-biological-signals-viewer)
+**Repository:** [BioSignalScope](https://github.com/Mostafaali3/BioSignalScope-Real-time-biological-signals-viewer?tab=readme-ov-file)
 
 ---
 
@@ -33,9 +33,9 @@ Azzam is a desktop application inspired by Shazam, designed for music matching. 
 - Fast processing and response time.
 - Intuitive interface for easy user interaction.
 
-![Azzam](https://github.com/AhmedXAlDeeb/Azzam-Shazam-like-desktop-app-for-music-matching-s/blob/main/assets/program%20laptop%20mockup.png)
+![Azzam](https://github.com/Mostafaali3/Azzam-Shazam-like-desktop-app-for-music-matching/blob/main/assets/program%20laptop%20mockup.png)
 
-**Repository:** [Azzam](https://github.com/AhmedXAlDeeb/Azzam-Shazam-like-desktop-app-for-music-matching-s)
+**Repository:** [Azzam](https://github.com/Mostafaali3/Azzam-Shazam-like-desktop-app-for-music-matching)
 
 ---
 
@@ -49,9 +49,9 @@ ToneEQ is an audio processing tool that functions as both an equalizer and an ac
 - High-quality acappella extraction.
 - Real-time audio processing.
 
-![ToneEQ](https://github.com/AhmedXAlDeeb/ToneEQ-Audio-Equalizer-and-Acappella-Extractor/raw/main/assets/laptob_mockup.png)
+![ToneEQ](https://github.com/Mostafaali3/ToneEQ-Audio-Equalizer-and-Acapella-Extractor/blob/main/assets/laptob_mockup.png)
 
-**Repository:** [ToneEQ](https://github.com/AhmedXAlDeeb/ToneEQ-Audio-Equalizer-and-Acappella-Extractor)
+**Repository:** [ToneEQ](https://github.com/Mostafaali3/ToneEQ-Audio-Equalizer-and-Acapella-Extractor?tab=readme-ov-file)
 
 ---
 
@@ -65,9 +65,8 @@ PhaseMediX is an image processing application that utilizes Fourier Transform te
 - Support for various image formats.
 - Tools for detailed image analysis and manipulation.
 
-![PhaseMediX](https://github.com/AhmedXAlDeeb/PhaseMediX-Image-Mixer-with-Fourier-Transform/raw/main/assets/screen_mockup.png)
-
-**Repository:** [PhaseMediX](https://github.com/AhmedXAlDeeb/PhaseMediX-Image-Mixer-with-Fourier-Transform)
+![PhaseMediX](https://github.com/Mostafaali3/PhaseMediX-Image-Mixer-with-Fourier-Transform/blob/main/assets/screen_mockup.png)
+**Repository:** [PhaseMediX](https://github.com/Mostafaali3/PhaseMediX-Image-Mixer-with-Fourier-Transform)
 
 ---
 
@@ -81,9 +80,8 @@ This simulator provides real-time beamforming capabilities, allowing users to mo
 - Visualization tools for beam patterns.
 - Adjustable parameters for customized simulations.
 
-![Beamforming Simulator](https://github.com/AhmedXAlDeeb/Beamforming-realtime-Simulator/raw/main/assets/Group%209.png)
-
-**Repository:** [Beamforming Realtime Simulator](https://github.com/AhmedXAlDeeb/Beamforming-realtime-Simulator)
+![Beamforming Simulator](https://github.com/Mostafaali3/Beamforming-Realtime-Simulator/blob/main/assets/Group%209.png)
+**Repository:** [ٍsimulator](https://github.com/Mostafaali3/Beamforming-Realtime-Simulator)
 
 ---
 
@@ -97,9 +95,9 @@ SampleLab is a real-time sampling studio based on the Nyquist theorem. It allows
 - Interactive tools for learning and experimentation.
 - Support for various signal types and sampling rates.
 
-![SampleLab](https://github.com/AhmedXAlDeeb/SampleLab-Nyquist-Realtime-Sampling-Studio/blob/main/icons_setup/icons/task_2_image.png)
+![SampleLab](https://github.com/Mostafaali3/SampleLab-Nyquist-Realtime-Sampling-Studio/blob/main/icons_setup/icons/task_2_image.png)
 
-**Repository:** [SampleLab](https://github.com/AhmedXAlDeeb/SampleLab-Nyquist-Realtime-Sampling-Studio)
+**Repository:** [SampleLab](https://github.com/Mostafaali3/SampleLab-Nyquist-Realtime-Sampling-Studio)
 
 ---
 
