@@ -5,9 +5,24 @@ Welcome to Spectrum Code! This organization consolidates a collection of innovat
 ## Mission Statement
 Spectrum Code is dedicated to advancing open-source solutions in real-time signal and image processing, empowering developers and researchers with cutting-edge tools. We strive to foster innovation and collaboration to address real-world challenges in audio, visual, and biological signal analysis.
 
-## Projects
+## Projects:
 
-### 1. BioSignalScope: Real-time Biological Signals Viewer
+### 1.FilterSymphony: Real-Time Digital Filter Designer  
+
+**Description:**  
+FilterSymphony is an interactive real-time digital filter designer that allows users to intuitively place and modify zeros and poles on the z-plane. It provides dynamic frequency response visualization, real-time signal filtering, and phase correction using all-pass filters. The tool also supports filter realization and automatic C code generation for embedded systems, making it a powerful resource for signal processing enthusiasts and engineers.
+
+**Key Features:**  
+- Interactive zero-pole placement and real-time frequency response updates.  
+- Live signal filtering with dynamic visualization.  
+- All-pass filter library for phase correction.  
+- Multiple filter realization structures (Direct Form I, II, Transposed, Lattice).  
+- Automatic C code generation for embedded implementation.  
+
+![FilterSymphony](assets/filterSymphony.png)  
+
+**Repository:** [FilterSymphony](https://github.com/yourusername/Digital-Filter-Designer)
+### 2. BioSignalScope: Real-time Biological Signals Viewer
 
 **Description:**
 BioSignalScope is a real-time viewer designed for biological signals. It enables users to visualize and analyze various biological data streams in real-time, facilitating better understanding and monitoring of physiological parameters.
@@ -23,7 +38,7 @@ BioSignalScope is a real-time viewer designed for biological signals. It enables
 
 ---
 
-### 2. Azzam: Shazam-like Desktop App for Music Matching
+### 3. Azzam: Shazam-like Desktop App for Music Matching
 
 **Description:**
 Azzam is a desktop application inspired by Shazam, designed for music matching. It allows users to identify songs by analyzing audio inputs and matching them against a database, providing quick and accurate song recognition.
@@ -39,7 +54,7 @@ Azzam is a desktop application inspired by Shazam, designed for music matching. 
 
 ---
 
-### 3. ToneEQ: Audio Equalizer and Acappella Extractor
+### 4. ToneEQ: Audio Equalizer and Acappella Extractor
 
 **Description:**
 ToneEQ is an audio processing tool that functions as both an equalizer and an acappella extractor. It enables users to adjust audio frequencies to enhance sound quality and isolate vocal tracks from music, providing versatile audio editing capabilities.
@@ -55,7 +70,7 @@ ToneEQ is an audio processing tool that functions as both an equalizer and an ac
 
 ---
 
-### 4. PhaseMediX: Image Mixer with Fourier Transform
+### 5. PhaseMediX: Image Mixer with Fourier Transform
 
 **Description:**
 PhaseMediX is an image processing application that utilizes Fourier Transform techniques to mix and manipulate images. It allows users to perform complex image transformations, enabling creative and scientific exploration of image data.
@@ -70,7 +85,7 @@ PhaseMediX is an image processing application that utilizes Fourier Transform te
 
 ---
 
-### 5. Beamforming Realtime Simulator
+### 6. Beamforming Realtime Simulator
 
 **Description:**
 This simulator provides real-time beamforming capabilities, allowing users to model and analyze beamforming techniques used in signal processing and communications. It serves as an educational tool for understanding and visualizing beamforming concepts.
@@ -85,7 +100,7 @@ This simulator provides real-time beamforming capabilities, allowing users to mo
 
 ---
 
-### 6. SampleLab: Nyquist Realtime Sampling Studio
+### 7. SampleLab: Nyquist Realtime Sampling Studio
 
 **Description:**
 SampleLab is a real-time sampling studio based on the Nyquist theorem. It allows users to experiment with sampling and reconstruction of signals, providing a hands-on approach to understanding sampling theory and its practical applications.
