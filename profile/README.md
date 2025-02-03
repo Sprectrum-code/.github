@@ -1,5 +1,5 @@
 # Spectrum Code
-
+![team](https://pbs.twimg.com/media/Gi0npnZX0AA4BER?format=jpg&name=large)
 Welcome to Spectrum Code! This organization consolidates a collection of innovative projects applying Digital Signal Proccessing Princibles, focusing on real-time signal processing, audio analysis, and image transformation. Below is an overview of each project within this organization:
 
 ## Mission Statement
