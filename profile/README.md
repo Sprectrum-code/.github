@@ -19,7 +19,7 @@ FilterSymphony is an interactive real-time digital filter designer that allows u
 - Multiple filter realization structures (Direct Form I, II, Transposed, Lattice).  
 - Automatic C code generation for embedded implementation.  
 
-![FilterSymphony](https://github.com/Sprectrum-code/FilterSymphony-Realtime-Digital-Filter-Designer/blob/main/assets/home.png)
+![FilterSymphony](https://pbs.twimg.com/media/Gi0pBJxXIAI7fD1?format=jpg&name=large)
 
 **Repository:** [FilterSymphony](https://github.com/yourusername/Digital-Filter-Designer)
 ### 2. BioSignalScope: Real-time Biological Signals Viewer
